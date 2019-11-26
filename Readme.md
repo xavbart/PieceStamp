@@ -2,7 +2,7 @@
 
 A very messy and crude Applescript utility using some python (and obsoleted ObjC CG methods) and ImageMagick, to generate watermarks on documents for legal case:
 
-
+![Example](resources/example.jpg)
 What it does
 -
 
