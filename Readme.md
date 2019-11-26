@@ -1,6 +1,8 @@
-# Readme
+#PieceStamp
 
 A very messy and crude Applescript utility using some python (and obsoleted ObjC CG methods) and ImageMagick, to generate watermarks on documents for legal case:
+
+
 What it does
 -
 
@@ -38,7 +40,7 @@ You need to have a folder holding:
 
 Beware : The total number of pages for all listed documents as summed inside `bordereau.txt` must be consistent with the number of pages of the PDF file.
 ###Run it
-You will then just run the AppleScript, point it to the folder holding your documents, and it will do its magic.
+You will then just run the AppleScript `PiecesTracker.scpt`(could be saved as a standalone app too), point it to the folder holding your documents, and it will do its magic.
 
 ToDo
 -
